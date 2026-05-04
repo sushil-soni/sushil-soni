@@ -48,6 +48,7 @@
 
 ### 💠 Visualization
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
