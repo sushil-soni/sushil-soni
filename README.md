@@ -27,12 +27,11 @@
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| 🛒 E-Commerce Sales Analysis | Python, Pandas, Matplotlib | Revenue & customer trend analysis |
-| 🏦 Banking Transaction Analysis | SQL, CTEs, Window Functions | Fraud detection & customer segmentation |
-| 🏥 Hospital Management | SQL, Stored Procedures | Patient billing & department analytics |
-| 🎬 Movie Streaming Analysis | SQL, Indexing | User metrics & retention analytics |
-| 🔲 QR Code Generator | Python, Tkinter | GUI-based QR code tool |
-| 📊 Sales Automation Dashboard | Power BI, DAX | Automated reporting dashboard |
+| [🛒 E-Commerce Sales Analysis](https://github.com/sushil-soni/Python-Project) | Python, Pandas, Matplotlib | Revenue & customer trend analysis |
+| [🔲 QR Code Generator](https://github.com/sushil-soni/Python-Project) | Python, Tkinter | GUI-based QR code tool |
+| [🏥 Hospital Management](https://github.com/sushil-soni/MySQL-Project) | SQL, Stored Procedures | Patient billing & department analytics |
+| [🎬 Movie Streaming Analysis](https://github.com/sushil-soni/MySQL-Project) | SQL, Indexing | User metrics & retention analytics |
+| [📊 Sales Automation Dashboard](https://github.com/sushil-soni/PowerBI-Project) | Power BI, DAX | Automated reporting dashboard |
 
 ---
 
